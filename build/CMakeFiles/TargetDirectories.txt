@@ -1,0 +1,3 @@
+/mnt/c/Users/berid/Desktop/psp-projects/psp-graphics-utility-notes/build/CMakeFiles/graphics_utility_notes.dir
+/mnt/c/Users/berid/Desktop/psp-projects/psp-graphics-utility-notes/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/berid/Desktop/psp-projects/psp-graphics-utility-notes/build/CMakeFiles/rebuild_cache.dir

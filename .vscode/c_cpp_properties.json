@@ -4,7 +4,7 @@
       "name": "WSL-PSP",
       "includePath": [
         "${workspaceFolder}/**",
-        "/usr/local/pspdev/psp/sdk/include"
+        "../../pspdev/psp/sdk/include"
       ],
       "compilerPath": "/usr/local/pspdev/bin/psp-gcc",
       "intelliSenseMode": "linux-gcc-x64",

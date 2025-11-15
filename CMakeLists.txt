@@ -12,6 +12,9 @@ target_link_libraries(${PROJECT_NAME} PRIVATE
     pspdebug
     pspdisplay
     pspge
+    pspgu
+    pspgum
+    pspkernel
 )
 
 create_pbp_file(
